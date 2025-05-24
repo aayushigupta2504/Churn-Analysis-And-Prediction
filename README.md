@@ -40,8 +40,7 @@ This project focuses on analyzing customer churn data from a telecom company. It
 - Feature importance helped identify top churn drivers.
 
 > **Libraries Used**:
-```python
-pandas, numpy, seaborn, matplotlib, scikit-learn
+```python pandas, numpy, seaborn, matplotlib, scikit-learn
 
 
 🧠 Key Insights
