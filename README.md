@@ -39,8 +39,7 @@ This project focuses on analyzing customer churn data from a telecom company. It
 - Achieved accuracy of ~85% on test set.
 - Feature importance helped identify top churn drivers.
 
-> **Libraries Used**:
-```python pandas, numpy, seaborn, matplotlib, scikit-learn
+> **Libraries Used**: pandas, numpy, seaborn, matplotlib, scikit-learn
 
 
 🧠 Key Insights
